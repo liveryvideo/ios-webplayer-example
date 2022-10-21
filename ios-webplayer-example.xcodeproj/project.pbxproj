@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E3636D72902D7C90023A7D3 /* WebPlayer.html in Resources */ = {isa = PBXBuildFile; fileRef = 2E3636D62902D7C90023A7D3 /* WebPlayer.html */; };
 		2EEEBD7A2902934700B04B24 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EEEBD792902934700B04B24 /* AppDelegate.swift */; };
 		2EEEBD7C2902934700B04B24 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EEEBD7B2902934700B04B24 /* SceneDelegate.swift */; };
 		2EEEBD7E2902934700B04B24 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EEEBD7D2902934700B04B24 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E3636D62902D7C90023A7D3 /* WebPlayer.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = WebPlayer.html; sourceTree = "<group>"; };
 		2EEEBD762902934700B04B24 /* ios-webplayer-example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-webplayer-example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EEEBD792902934700B04B24 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2EEEBD7B2902934700B04B24 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				2EEEBD7B2902934700B04B24 /* SceneDelegate.swift */,
 				2EEEBD7D2902934700B04B24 /* ViewController.swift */,
 				2EEEBD8D29029B1700B04B24 /* WebPlayer.swift */,
+				2E3636D62902D7C90023A7D3 /* WebPlayer.html */,
 				2EEEBD7F2902934700B04B24 /* Main.storyboard */,
 				2EEEBD822902934800B04B24 /* Assets.xcassets */,
 				2EEEBD842902934800B04B24 /* LaunchScreen.storyboard */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E3636D72902D7C90023A7D3 /* WebPlayer.html in Resources */,
 				2EEEBD862902934800B04B24 /* LaunchScreen.storyboard in Resources */,
 				2EEEBD832902934800B04B24 /* Assets.xcassets in Resources */,
 				2EEEBD812902934700B04B24 /* Main.storyboard in Resources */,
